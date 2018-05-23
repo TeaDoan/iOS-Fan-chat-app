@@ -54,6 +54,10 @@
 		B033F0AC20B5CB3C00761E75 /* iOSFan */ = {
 			isa = PBXGroup;
 			children = (
+				B033F0C220B5CB9600761E75 /* UI */,
+				B033F0C120B5CB8C00761E75 /* Controller */,
+				B033F0C020B5CB7900761E75 /* Model Controller */,
+				B033F0BF20B5CB5A00761E75 /* Model */,
 				B033F0AD20B5CB3C00761E75 /* AppDelegate.swift */,
 				B033F0AF20B5CB3C00761E75 /* ViewController.swift */,
 				B033F0B120B5CB3C00761E75 /* Main.storyboard */,
@@ -62,6 +66,34 @@
 				B033F0B920B5CB3E00761E75 /* Info.plist */,
 			);
 			path = iOSFan;
+			sourceTree = "<group>";
+		};
+		B033F0BF20B5CB5A00761E75 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B033F0C020B5CB7900761E75 /* Model Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Model Controller";
+			sourceTree = "<group>";
+		};
+		B033F0C120B5CB8C00761E75 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		B033F0C220B5CB9600761E75 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = UI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
